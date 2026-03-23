@@ -21,7 +21,7 @@ and are now mounted and accessible in the file system. Pretty much confirms the 
 
 ### Screenshot
 
-(Insert frozen terminals)
+(Insert frozen terminals)<br><br>
 ![alt text](<Level 3 sync_up.png>)
 ![alt text](<Level 3 sync_down.png>)
 ![alt text](<Level 3 check frozen.png>)
@@ -36,7 +36,7 @@ Neither one will let go, so they just freeze forever.
 
 ### Screenshot
 
-(Insert multiplayer deadlock)
+(Insert multiplayer deadlock)<br><br>
 ![alt text](<Level 4 First.png>)
 ![alt text](<Level 4.png>)
 
@@ -50,7 +50,7 @@ waiting on each other across the server — completely frozen.s.
 
 ### Screenshot
 
-(Insert successful execution)
+(Insert successful execution)<br><br>
 ![alt text](<Level 5.png>)
 
 ### Explanation
@@ -63,7 +63,7 @@ waiting on each other.
 
 ### Screenshot
 
-(Insert timeout error)
+(Insert timeout error)<br><br>
 ![alt text](<level 61.png>)
 ![alt text](<Level 62.png>)
 
@@ -77,7 +77,7 @@ than freezing the whole terminal.
 
 ### Screenshot
 
-(Insert clean df -h output)
+(Insert clean df -h output)<br><br>
 ![alt text](<Level 7.png>)
 
 ### Explanation
